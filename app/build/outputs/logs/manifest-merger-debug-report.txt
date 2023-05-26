@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\205b5903f261c5c6541655e7e843ee0c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\4b946db6f2ff88fc26fb33fd52531e6b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\672d53730d6ebd729ccc79102d6cb758\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\c5baf8588718102de3551e34c3fadc49\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\62f82929635eff218756890d0ba5eb6c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\178b9544fc75c0e4d92ef1c2afd8ce19\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\1349e7ad57cabb9dae8c0863229282bb\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\9a08214a712ed713567bdca04675ed20\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\8b83dc6e9a2bbb804dff05b3cf74192f\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\255da08ade71116fbf97480d97ffb53f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\54ecfc03c8cadeab6d510e3dc58018e0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\8d704235f5f81b730fd4ef1948ba7125\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\55bc1c81268f5221a109e0f739ac1ab8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\df539a845e1e316459a075c9f931c6c6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\c5bd96b59db26790e1445525b18eac1f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\8580aaab472a7fd77cc99c0d0f9fe605\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\45b273ca003802951397cc7fab06cbcc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\58679267baa1e139fc1cdb092035b671\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\ad49a1704213ff417555dcf76395753a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\6ab3e3348c7c02aa2e0b69f9e5366cff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\dea8457952357e966ccc140d7b8f6a72\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\dea2e88f23a3dbf98f84d21e4c0cb3a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\28d9859289aeb7427a133e159dd01d3b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\7f511a38806db47f435243d4a87aebe0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\df6247b43e108911329fcb1b1fde77e2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\2a988dd625a1c44bf318601e20632d7c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\6285cd26f82c4d7ea47d5ebe8eba7aba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\365ace1a2c8fe52aea784b3451b7d5f9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\f1f0b9adbd9e18b637d277058895a9c2\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\b4a477556d9e9334503c0d3fd8eb8045\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\e3c24d30949c9336bf5d6f6e09337b8e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\b4cfc21b374ce4c2b2b4f669407bbe5d\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\823000d61ecb1d6e913724a1ee2d52dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\3efff711339ab64e994f96809dcf0eaa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\7e8d10105418a7a373e9eadcba7bc961\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\46a196f88ee2959f770d58ab98534d1d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\dbcc615b4a84ac637e4014b48091052a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\ec519927242876295e9a081d4d522077\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\9308f94906dc2dfe5ac34e8ade01ecd1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\42911161583246cdbdba540c237a7b5a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\20aeb2dfdf23725b7bdfc837b00de63b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\6474b495660cf3f13b6f3668d1dc60b2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:3:11-34
+		INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\205b5903f261c5c6541655e7e843ee0c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\205b5903f261c5c6541655e7e843ee0c\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\c5baf8588718102de3551e34c3fadc49\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\c5baf8588718102de3551e34c3fadc49\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\9a08214a712ed713567bdca04675ed20\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\9a08214a712ed713567bdca04675ed20\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\8b83dc6e9a2bbb804dff05b3cf74192f\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\8b83dc6e9a2bbb804dff05b3cf74192f\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\f1f0b9adbd9e18b637d277058895a9c2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\f1f0b9adbd9e18b637d277058895a9c2\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\b4a477556d9e9334503c0d3fd8eb8045\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\b4a477556d9e9334503c0d3fd8eb8045\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\b4cfc21b374ce4c2b2b4f669407bbe5d\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\b4cfc21b374ce4c2b2b4f669407bbe5d\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\f1f0b9adbd9e18b637d277058895a9c2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:11:13-45
+	android:roundIcon
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:12:13-58
+	android:icon
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:10:13-47
+	android:allowBackup
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:9:13-39
+	android:theme
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:14:13-44
+activity#com.instagram.MainActivity
+ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:17:17-49
+	android:theme
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:18:17-60
+	android:name
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:16:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\205b5903f261c5c6541655e7e843ee0c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\205b5903f261c5c6541655e7e843ee0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\4b946db6f2ff88fc26fb33fd52531e6b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\4b946db6f2ff88fc26fb33fd52531e6b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\672d53730d6ebd729ccc79102d6cb758\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\672d53730d6ebd729ccc79102d6cb758\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\c5baf8588718102de3551e34c3fadc49\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\c5baf8588718102de3551e34c3fadc49\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\62f82929635eff218756890d0ba5eb6c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\62f82929635eff218756890d0ba5eb6c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\178b9544fc75c0e4d92ef1c2afd8ce19\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\178b9544fc75c0e4d92ef1c2afd8ce19\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\1349e7ad57cabb9dae8c0863229282bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\1349e7ad57cabb9dae8c0863229282bb\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\9a08214a712ed713567bdca04675ed20\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\9a08214a712ed713567bdca04675ed20\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\8b83dc6e9a2bbb804dff05b3cf74192f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\8b83dc6e9a2bbb804dff05b3cf74192f\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\255da08ade71116fbf97480d97ffb53f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\255da08ade71116fbf97480d97ffb53f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\54ecfc03c8cadeab6d510e3dc58018e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\54ecfc03c8cadeab6d510e3dc58018e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\8d704235f5f81b730fd4ef1948ba7125\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\8d704235f5f81b730fd4ef1948ba7125\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\55bc1c81268f5221a109e0f739ac1ab8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\55bc1c81268f5221a109e0f739ac1ab8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\df539a845e1e316459a075c9f931c6c6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\df539a845e1e316459a075c9f931c6c6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\c5bd96b59db26790e1445525b18eac1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\c5bd96b59db26790e1445525b18eac1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\8580aaab472a7fd77cc99c0d0f9fe605\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\8580aaab472a7fd77cc99c0d0f9fe605\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\45b273ca003802951397cc7fab06cbcc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\45b273ca003802951397cc7fab06cbcc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\58679267baa1e139fc1cdb092035b671\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\58679267baa1e139fc1cdb092035b671\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\ad49a1704213ff417555dcf76395753a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\ad49a1704213ff417555dcf76395753a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\6ab3e3348c7c02aa2e0b69f9e5366cff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\6ab3e3348c7c02aa2e0b69f9e5366cff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\dea8457952357e966ccc140d7b8f6a72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\dea8457952357e966ccc140d7b8f6a72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\dea2e88f23a3dbf98f84d21e4c0cb3a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\dea2e88f23a3dbf98f84d21e4c0cb3a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\28d9859289aeb7427a133e159dd01d3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\28d9859289aeb7427a133e159dd01d3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\7f511a38806db47f435243d4a87aebe0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\7f511a38806db47f435243d4a87aebe0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\df6247b43e108911329fcb1b1fde77e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\df6247b43e108911329fcb1b1fde77e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\2a988dd625a1c44bf318601e20632d7c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\2a988dd625a1c44bf318601e20632d7c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\6285cd26f82c4d7ea47d5ebe8eba7aba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\6285cd26f82c4d7ea47d5ebe8eba7aba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\365ace1a2c8fe52aea784b3451b7d5f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\365ace1a2c8fe52aea784b3451b7d5f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\f1f0b9adbd9e18b637d277058895a9c2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\f1f0b9adbd9e18b637d277058895a9c2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\b4a477556d9e9334503c0d3fd8eb8045\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\b4a477556d9e9334503c0d3fd8eb8045\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\e3c24d30949c9336bf5d6f6e09337b8e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\e3c24d30949c9336bf5d6f6e09337b8e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\b4cfc21b374ce4c2b2b4f669407bbe5d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\b4cfc21b374ce4c2b2b4f669407bbe5d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\823000d61ecb1d6e913724a1ee2d52dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\823000d61ecb1d6e913724a1ee2d52dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\3efff711339ab64e994f96809dcf0eaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\3efff711339ab64e994f96809dcf0eaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\7e8d10105418a7a373e9eadcba7bc961\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\7e8d10105418a7a373e9eadcba7bc961\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\46a196f88ee2959f770d58ab98534d1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\46a196f88ee2959f770d58ab98534d1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\dbcc615b4a84ac637e4014b48091052a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\dbcc615b4a84ac637e4014b48091052a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\ec519927242876295e9a081d4d522077\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\ec519927242876295e9a081d4d522077\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\9308f94906dc2dfe5ac34e8ade01ecd1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\9308f94906dc2dfe5ac34e8ade01ecd1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\42911161583246cdbdba540c237a7b5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\42911161583246cdbdba540c237a7b5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\20aeb2dfdf23725b7bdfc837b00de63b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\20aeb2dfdf23725b7bdfc837b00de63b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\6474b495660cf3f13b6f3668d1dc60b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\6474b495660cf3f13b6f3668d1dc60b2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\visha\Desktop\Instagram_Clone\app\src\main\AndroidManifest.xml

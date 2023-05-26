@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Fri May 26 17:37:49 IST 2023
+3.set=DEX
+3.path=classes.dex
+2.base=C\:\\Users\\visha\\Desktop\\Instagram_Clone\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+0.path=status.json
+count=4
+1.set=ASSET
+2.path=classes.dex
+2.baseType=DIRECTORY
+0.base=C\:\\Users\\visha\\Desktop\\Instagram_Clone\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.set=DEX
+3.base=C\:\\Users\\visha\\Desktop\\Instagram_Clone\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+1.baseType=DIRECTORY
+3.baseType=DIRECTORY
+1.path=post.json
+0.baseType=DIRECTORY
+1.base=C\:\\Users\\visha\\Desktop\\Instagram_Clone\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.set=ASSET
